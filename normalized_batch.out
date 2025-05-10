@@ -1,0 +1,9 @@
+SET
+SET
+CREATE INDEX
+CREATE INDEX
+CREATE INDEX
+CREATE INDEX
+ERROR:  syntax error at or near "RAISE"
+LINE 1: RAISE NOTICE  'pg_normalized indexes finished creating';
+        ^
